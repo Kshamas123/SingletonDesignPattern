@@ -1,4 +1,4 @@
-Here’s a **README** for your Singleton implementation with multi-threading:  
+ 
 
 ---
 
